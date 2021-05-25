@@ -27,6 +27,7 @@ npm install
 - **Start the backend server**
 
 npm start
+- **Add the urli in QTrip/frontend/conf to link the frontend and backend**
 
 - **Run the QTrip/frontend/index.html to view the webpage**
 
